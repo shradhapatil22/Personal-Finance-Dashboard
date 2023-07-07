@@ -34,18 +34,9 @@ To use the Personal Finance Dashboard, follow these steps:
 
 Contributions to the Personal Finance Dashboard are welcome! If you find any issues or have suggestions for improvement, please feel free to submit a pull request or open an issue on the project's GitHub repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
-## Acknowledgments
-
-We would like to express our gratitude to the open-source community and the contributors who have helped make this project possible.
-
-Special thanks to the Power BI team for providing a powerful tool for data visualization and analysis.
 
 ## Contact
 
-If you have any questions or inquiries regarding the Personal Finance Dashboard, please contact [your-email-address]. We would be happy to assist you.
+If you have any questions or inquiries regarding the Personal Finance Dashboard, please contact shradhapatil2202@gmail.com. We would be happy to assist you.
 
 Happy tracking and managing your personal finances with the Personal Finance Dashboard!
